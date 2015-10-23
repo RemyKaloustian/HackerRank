@@ -1,0 +1,6 @@
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRanck - Sum of Diagonals\bin\Debug\HackerRanck - Sum of Diagonals.exe.config
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRanck - Sum of Diagonals\bin\Debug\HackerRanck - Sum of Diagonals.exe
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRanck - Sum of Diagonals\bin\Debug\HackerRanck - Sum of Diagonals.pdb
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRanck - Sum of Diagonals\obj\Debug\HackerRanck - Sum of Diagonals.csprojResolveAssemblyReference.cache
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRanck - Sum of Diagonals\obj\Debug\HackerRanck - Sum of Diagonals.exe
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRanck - Sum of Diagonals\obj\Debug\HackerRanck - Sum of Diagonals.pdb
