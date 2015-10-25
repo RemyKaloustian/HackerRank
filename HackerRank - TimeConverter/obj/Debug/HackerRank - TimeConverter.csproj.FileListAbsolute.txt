@@ -1,0 +1,5 @@
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRank - TimeConverter\bin\Debug\HackerRank - TimeConverter.exe.config
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRank - TimeConverter\bin\Debug\HackerRank - TimeConverter.exe
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRank - TimeConverter\bin\Debug\HackerRank - TimeConverter.pdb
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRank - TimeConverter\obj\Debug\HackerRank - TimeConverter.exe
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRank - TimeConverter\obj\Debug\HackerRank - TimeConverter.pdb
