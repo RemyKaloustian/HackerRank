@@ -1,0 +1,6 @@
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRank - Pangram\bin\Debug\HackerRank - Pangram.exe.config
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRank - Pangram\bin\Debug\HackerRank - Pangram.exe
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRank - Pangram\bin\Debug\HackerRank - Pangram.pdb
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRank - Pangram\obj\Debug\HackerRank - Pangram.csprojResolveAssemblyReference.cache
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRank - Pangram\obj\Debug\HackerRank - Pangram.exe
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRank - Pangram\obj\Debug\HackerRank - Pangram.pdb

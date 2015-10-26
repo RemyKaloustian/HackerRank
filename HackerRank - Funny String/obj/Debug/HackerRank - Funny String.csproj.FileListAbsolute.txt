@@ -1,0 +1,6 @@
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRank - Funny String\bin\Debug\HackerRank - Funny String.exe.config
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRank - Funny String\bin\Debug\HackerRank - Funny String.exe
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRank - Funny String\bin\Debug\HackerRank - Funny String.pdb
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRank - Funny String\obj\Debug\HackerRank - Funny String.csprojResolveAssemblyReference.cache
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRank - Funny String\obj\Debug\HackerRank - Funny String.exe
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRank - Funny String\obj\Debug\HackerRank - Funny String.pdb
