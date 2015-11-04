@@ -22,7 +22,7 @@ namespace HackerRank___Alternating_Characters
                 }
             }
 
-            Console.WriteLine("Il faut supprimer " + deletionCounter + " caractères");
+           
 
         }
     }
