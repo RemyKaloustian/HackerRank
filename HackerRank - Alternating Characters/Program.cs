@@ -11,14 +11,14 @@ namespace HackerRank___Alternating_Characters
         static void Main(string[] args)
         {
             string str = "abaaab";
-            int deletionCounter = 0;
+            int deletion = 0;
 
             for (int i = 0; i < str.Length - 1; i++)
             {
                 if (str[i] == str[i + 1])
                 {
                     char currentChar = str[i];
-                    ++deletionCounter;
+                    ++deletion;
                 }
             }
 
