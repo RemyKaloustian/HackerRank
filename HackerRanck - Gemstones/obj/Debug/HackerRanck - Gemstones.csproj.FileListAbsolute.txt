@@ -1,0 +1,6 @@
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRanck - Gemstones\bin\Debug\HackerRanck - Gemstones.exe.config
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRanck - Gemstones\bin\Debug\HackerRanck - Gemstones.exe
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRanck - Gemstones\bin\Debug\HackerRanck - Gemstones.pdb
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRanck - Gemstones\obj\Debug\HackerRanck - Gemstones.csprojResolveAssemblyReference.cache
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRanck - Gemstones\obj\Debug\HackerRanck - Gemstones.exe
+D:\Documents\Desktop\TRAVAIL\DÉVELOPPEMENT\HackerRank\HackerRanck - Gemstones\obj\Debug\HackerRanck - Gemstones.pdb
